@@ -1,0 +1,16 @@
+Description	NES	pvalue
+positive regulation of superoxide anion generation	2.06395633775479	0.000132222835808688
+positive regulation of integrin activation	1.98228136184121	0.00223891344739045
+chromosome segregation	-1.22033986263693	0.00151867512498459
+positive regulation of T cell activation	-1.26656760177603	0.00140963565766984
+cellular response to growth factor stimulus	-1.27467443300469	1.41023273975268e-05
+positive regulation of NF-kappaB signaling	-1.29146201550208	0.00161232566193182
+response to transforming growth factor beta	-1.30935526907783	0.000244041565765559
+oxidative phosphorylation	-1.34819826144061	0.000812181545587489
+T cell differentiation	-1.38472591157614	8.47170064188343e-07
+regulation of receptor signaling pathway via JAK-STAT	-1.39502138026477	0.00170511738980272
+SMAD protein signal transduction	-1.40662494248873	0.00277668523121765
+CD4-positive, alpha-beta T cell differentiation	-1.41323394451237	0.000478376594778688
+positive regulation of fibroblast proliferation	-1.46846389866655	0.000764793844392898
+T cell receptor signaling pathway	-1.47395651471438	1.84564420488635e-06
+positive T cell selection	-1.48053683390935	0.00094461149818893
